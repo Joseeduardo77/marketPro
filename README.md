@@ -1,12 +1,38 @@
-# React + Vite
+<h1 align="center">🛒 MarketPro</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  Loja virtual desenvolvida com <strong>React + Vite</strong>, focada em boas práticas, responsividade e experiência do usuário.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="#-funcionalidades">Funcionalidades</a> •
+  <a href="#-tecnologias">Tecnologias</a> •
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔗 Projeto online
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+➡ *Acesse aqui*: [Link do projeto no GitHub Pages](https://joseeduardo77.github.io/marketPro/)
+
+---
+
+## ✨ Funcionalidades
+
+✅ Lista de produtos com imagem, título e preço  
+✅ Adição e remoção de itens no carrinho  
+✅ Contador e total do carrinho atualizados em tempo real   
+✅ Navegação entre páginas com React Router  
+✅ Layout limpo e moderno  
+
+---
+
+## 🧠 Tecnologias
+
+- ⚛ *React 19*
+- ⚡ *Vite*
+- 🔁 *React Router DOM*
+- 🧪 *gh-pages*
+- 🖌 HTML5 + CSS3
+
+---
